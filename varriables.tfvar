@@ -1,0 +1,14 @@
+
+# Backend - SP Details 
+client_id_b = ""
+secret_id_b = ""
+tenant_id_b = ""
+subscription_id_b = ""
+
+
+# Frontend - SP Details
+client_id_f = ""
+secret_id_f = ""
+tenant_id_f = ""
+subscription_id_f = ""
+
